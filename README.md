@@ -1,2 +1,2 @@
-# sanyanov.github.io 
+# sanyanov.github.io
 Конспект
